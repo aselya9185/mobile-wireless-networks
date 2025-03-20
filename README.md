@@ -1,4 +1,4 @@
-##Mobile Wireless Networks: Capacity and Coverage Planning Exercises
+## Mobile Wireless Networks: Capacity and Coverage Planning Exercises
 This repository contains MATLAB scripts for computing various parameters in an OFDMA-based network, including cell radius, transmission power, and SINR calculations.
 
 ## Access MATLAB Drive
