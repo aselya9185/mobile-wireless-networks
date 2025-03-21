@@ -2,12 +2,12 @@
 This repository contains MATLAB scripts for computing various parameters in an OFDMA-based network, including cell radius, transmission power, and SINR calculations.
 
 ## How to run
-Locally:
+**Locally:**
 1. Clone the repository: git clone https://github.com/aselya9185/mobile-wireless-networks.git
 2. Open MATLAB and navigate to the folder.
 3. Run the scripts: run('exercise1.m')
 
-Matlab Drive:
+**Matlab Drive:**
 1. Open link to MATLAB Drive and navigate to the folder.
 2. Run the exercise with button or script.
 
